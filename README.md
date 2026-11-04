@@ -3,7 +3,7 @@
 <h2>Mis equipos de trabajo</h2>
 
 <p>
-  Instrumentos y plataformas que utilizo en mis proyectos,
+  Instrumentos que utilizo en mis proyectos,
   mediciones y pruebas experimentales.
 </p>
 
