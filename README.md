@@ -1,11 +1,4 @@
-<h1 align="center">Josue Giraldo Moya</h1>
 
-<p align="center">
-  Redes móviles · Radiofrecuencia · Antenas
-</p>
-
-
-<br>
 
 <h2>Mis equipos de trabajo</h2>
 
